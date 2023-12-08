@@ -1,1 +1,2 @@
 "This is the GitHub test"
+"This is new comment"
